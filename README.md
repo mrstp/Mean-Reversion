@@ -21,7 +21,6 @@ Plan
 
 5) Conclusions.
 
-The Code and the comments are in the Code.py file
-The Dataset is in the Python Project.xlsx file
+The Code and the comments are in the Code.py file, the Dataset is in the Python Project.xlsx file
 
 Work done by Mario Stopponi and Alessndro Sicilia
