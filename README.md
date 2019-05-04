@@ -11,7 +11,7 @@ Does the spread between the price of the two Tech giants follow a mean reverting
 
 Plan
 
-1) Define dataset, we downloaded the relevant price data from yahoo Finance and made sure the data downloaded for each symbol is of the same length.
+1) Define dataset, relevant price data downloaded from yahoo Finance and made sure the data downloaded for each symbol is of the same length.
 
 2) Plot the two stocks price series against each other in order to understand how strong is the correlation and get a visual representation.
 
@@ -20,3 +20,6 @@ Plan
 4) Run an Augmented Dickey Fuller test on the spread to confirm statistically whether the series is mean reverting or not.
 
 5) Conclusions.
+
+The Code and the comments are in the Code.py file
+The Dataset is in the Python Project.xlxm file
