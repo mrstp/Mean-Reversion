@@ -23,4 +23,4 @@ Plan
 
 The Code and the comments are in the Code.py file, the Dataset is in the Database Python.xlsx file
 
-Work done by Mario Stopponi and Alessndro Sicilia
+Work done by Mario Stopponi and Alessandro Sicilia
