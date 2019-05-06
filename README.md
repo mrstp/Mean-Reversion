@@ -21,6 +21,6 @@ Plan
 
 5) Conclusions.
 
-The Code and the comments are in the Code.py file, the Dataset is in the Database Python.xlsx file
+The Code and the comments are in the "Code.py" file, the executed code with charts is in the "Code Results.ipynb" file,the Dataset is in the "Database Python.xlsx" file
 
 Work done by Mario Stopponi and Alessandro Sicilia
